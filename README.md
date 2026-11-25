@@ -2,7 +2,9 @@
 Companion Repository for book Hands on Python Programming
 
 Chapter 5
+
 Employee Greeting & Badge Generator
+
 Chapter 6
 Ecommerce Discount Engine
 Chapter 7 
