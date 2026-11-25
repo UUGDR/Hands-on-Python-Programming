@@ -1,7 +1,7 @@
 # Hands-on-Python-Programming
 Companion Repository for book Hands on Python Programming
 
-# List of Projects
+**List of Projects**
 
 Chapter 5
 Employee Greeting & Badge Generator
